@@ -1,5 +1,7 @@
 Kiểm thử phần mềm cơ bản - Thứ 4 - Ca 3
+
 Nhóm tiểu luận : Nhóm 4 - Fix đi Dev! - Kiểm thử Swag Labs
+
 Danh sách thành viên
 1. Lê Hoàng Huy – 50.01.104.058 – Test Leader
 2.  Trần Tâm – 50.01.104.142 - Unit Tester
